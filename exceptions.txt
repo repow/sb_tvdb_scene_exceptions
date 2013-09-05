@@ -134,7 +134,7 @@
 149101: 'A League of Their Own (2010)' A League of Their Own UK',
 70994: 'MASH',
 72164: 'The O.C.', 'The OC',
-70327: 'Buffy the Vampire Slayer', 'Buffy',
+70327: 'Buffy the Vampire Slayer', 'Buffy', 'Buffy Im Bann der Daemonen',
 70572: 'Little Rascals' , 'The Little Rascals',
 194261: 'PhoneShop', 'Phone Shop',
 85508: 'QI XL', 'BBC QI XL', 'BBC QI XL (Quite Interesting)',
