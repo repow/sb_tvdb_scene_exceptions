@@ -216,3 +216,4 @@
 74845: 'Weeds', 'Weeds Kleine Deals unter Nachbarn',
 70682: 'OZ', 'Oz Hoelle hinter Gittern',
 72201: 'Nip Tuck', 'Nip Tuck - Schoenheit hat ihren Preis',
+80096: 'Tengen Toppa Gurren Lagann', 'Gurren Lagann',
