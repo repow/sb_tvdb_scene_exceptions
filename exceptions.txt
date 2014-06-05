@@ -218,3 +218,4 @@
 72201: 'Nip Tuck', 'Nip Tuck - Schoenheit hat ihren Preis',
 80096: 'Tengen Toppa Gurren Lagann', 'Gurren Lagann',
 267260: 'Intelligence', 'Intelligence (2014)',
+73893: 'Star Trek - Enterprise', 'Star Trek: Enterprise', 'Star Trek Enterprise'
