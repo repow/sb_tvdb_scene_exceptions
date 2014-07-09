@@ -193,7 +193,7 @@
 71635: 'Ein Kaefig voller Helden',
 242521: 'Dallas (2012)', 'Dallas 2012',
 258480: 'TRON: Der Aufstand', 'TRON Der Aufstand',
-262980: 'House of Cards 2013',
+262980: 'House of Cards 2013', 'House of Cards', 'House of Cards US',
 148581: 'Strike Back', 'Strike Back Project Dawn', 'Strike Back 2011', 'Strike Back Vengeance',
 257939: 'Copper', 'Copper Justice is brutal',
 70860: 'Carnivale',
