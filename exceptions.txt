@@ -5,7 +5,7 @@
 80552: 'Kitchen Nightmares (US)',
 71256: 'The Daily Show',
 75692: 'Law & Order: SVU', 'Law and Order: New York',
-71489: 'Law & Order: Criminal Intent', 'Law & Order: CI', ‘Criminal Intent’,
+71489: 'Law & Order: Criminal Intent', 'Law & Order: CI', 'Criminal Intent',
 79590: 'Dancing With The Stars (US)',
 73387: 'The Late Late Show with Craig Ferguson', 'Craig Ferguson',
 85355: 'Jimmy Fallon',
