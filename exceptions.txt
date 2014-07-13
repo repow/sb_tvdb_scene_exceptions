@@ -206,6 +206,7 @@
 164501: 'Mike und Molly', 'Mike und Molly',
 239761: 'Wilfred', 'Wilfred US',
 259765: 'Banshee', 'Banshee Small Town Big Secrets',
+252019: 'The Bridge 2011','The Bridge (2011)','Die Bruecke Transit in den Tod',
 264085: 'The Bridge (2013)', 'The Bridge US', 'The Bridge (US)', 'The Bridge - America', 'The Bridge',
 267970: 'Crossing Lines',
 72248: 'Zurueck in die Vergangenheit',
