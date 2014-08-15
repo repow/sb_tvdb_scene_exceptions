@@ -150,7 +150,7 @@
 253931: 'Rob',
 255045: 'The L.A. Complex', 'The LA Complex',
 248935: 'Touch (2012)', 'Touch',
-254798: 'Stella (2012)', 'Stella UK,
+254798: 'Stella (2012)', 'Stella UK',
 247824: 'The Voice (US)', 'The Voice',
 129261:  'Spartacus', 'Spartacus Blood and Sand', 'Spartacus Vengeance',
 70870: 'The Real World Road Rules Challenge', 'The Challenge Cutthroat', 'The Challenge Battle Of The Exes', 'The Challenge Rivals',
