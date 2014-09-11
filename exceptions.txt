@@ -226,3 +226,4 @@
 77904: 'Das A-Team', 'Das A Team', 'A-Team', 'A Team',
 82505: 'Wallander', 'Mankells Wallander', 'Kommissar Wallander',
 75682: 'Bones', 'Bones - Die Knochenjaegerin',
+262414: 'Bates Motel',
