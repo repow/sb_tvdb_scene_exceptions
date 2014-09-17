@@ -227,3 +227,7 @@
 82505: 'Wallander', 'Mankells Wallander', 'Kommissar Wallander',
 75682: 'Bones', 'Bones - Die Knochenjaegerin',
 262414: 'Bates Motel',
+79158: 'Es war einmal... Das Leben', 'Es war einmal das Leben',
+79849: 'Es war einmal... Der Mensch', 'Es war einmal der Mensch',
+85352: 'Es war einmal... unsere Erde', 'Es war einmal unsere Erde',
+81153: 'Es war einmal... Der Weltraum', 'Es war einmal der Weltraum',
