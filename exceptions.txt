@@ -241,3 +241,4 @@
 262536: 'Heiter bis toedlich - Akte Ex', 'Akte Ex',
 256328: 'Heiter bis toedlich - Morden im Norden', 'Morden im Norden',
 98781: 'Muenchen 7', 'Heiter bis toedlich - Muenchen 7',
+273298: 'Kripo Holstein – Mord und Meer',
