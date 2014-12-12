@@ -239,6 +239,6 @@
 80621: 'Secret Diary Of A Call Girl', 'Secret Diary of a Call Girl - Gestaendnisse einer Edelhure',
 258823: 'Revolution', 'Revolution 2012',
 262536: 'Heiter bis toedlich - Akte Ex', 'Akte Ex',
-256328: 'Heiter bis toedlich - Morden im Norden', 'Morden im Norden',
+256328: 'Heiter bis toedlich - Morden im Norden', 'Morden im Norden', 'Heiter bis tödlich - MiN', 'Heiter bis toedlich - MiN'
 98781: 'Muenchen 7', 'Heiter bis toedlich - Muenchen 7',
 273298: 'Kripo Holstein – Mord und Meer', 'Kripo Holstein–Mord und Meer',
